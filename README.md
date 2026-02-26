@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/87/67/03/8767035ce4cd2eb0947ba967de181cbd.jpg" alt="Might Guy" width="150" style="border-radius: 50%;">
-  <h1>Finance Dashboard - Transaction Application</h1>
-  <p><strong>A Power of YOUTH scale Full-Stack Transaction Dashboard 🍃</strong></p>
 </div>
+# Finance Dashboard - Transaction Application
+**A Power of YOUTH scale Full-Stack Transaction Dashboard 🍃**
 ---
 ## 🎯 About The Project
 This project is a complete full-stack web application designed for processing and managing financial transactions at scale. It demonstrates an elegant dynamic glassmorphism User Interface backed by a robust, secure, and performant server architecture capable of effortlessly handling **1,000,000+** transactions. 
