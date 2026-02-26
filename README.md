@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://0x0.st/PQ9c.jpg" alt="Might Guy" width="150" style="border-radius: 50%;">
-</div>
 
 # Finance Dashboard - Transaction Application
 
