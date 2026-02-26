@@ -1,4 +1,6 @@
-![Might Guy](https://i.pinimg.com/736x/87/67/03/8767035ce4cd2eb0947ba967de181cbd.jpg)
+<div align="center">
+  <img src="https://0x0.st/PQ9c.jpg" alt="Might Guy" width="150" style="border-radius: 50%;">
+</div>
 # Finance Dashboard - Transaction Application
 **A Power of YOUTH scale Full-Stack Transaction Dashboard 🍃**
 ---
